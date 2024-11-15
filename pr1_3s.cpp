@@ -780,7 +780,7 @@ private:
 
 int main() {
 
-    Database db("/home/skywalker/Рабочий стол/output/scheme.json");
+    Database db("BDentity.json");
 
     string user_query;
     while (true) {
